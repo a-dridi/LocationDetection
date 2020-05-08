@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LocationDetection</string>
+    <string name="googleApiConnectionFailedErrorOKButton">OK</string>
+    <string name="googleApiConnectionFailedErrorMessage">Google API connection failed. Please check Google Play Services.</string>
+    <string name="googleApiConnectionFailedErrorTitle">Google API connection failed</string>
+    <string name="errorLocationDetectionDeactivatedTitle">Activate GPS Permission</string>
+    <string name="errorLocationDetectionDeactivatedMesssage">Please ACTIVATE GPS in the settings to use this app. The detection of your location could take some time...</string>
+    <string name="errorLocationDetectionDeactivatedOKButton">OK</string>
+    <string name="my_position_text">"This is my position: "</string>
+    <string name="errorMapCouldNotBeLoadedMessage">Check your internet connection. Map could not be loaded.</string>
+    <string name="errorMapCouldNotBeLoadedTitle">Map could not be loaded.</string>
+    <string name="errorMapCouldNotBeLoadedOKButton">OK</string>
+    <string name="latDesc">Latitude:</string>
+    <string name="longDesc">Longitude:</string>
+
+</resources>
